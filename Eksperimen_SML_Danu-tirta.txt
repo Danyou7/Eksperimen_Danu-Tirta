@@ -1,0 +1,13 @@
+- Nama Dataset:  
+weather_classification_data
+
+- Sumber Dataset:
+https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
+
+- Deskripsi Singkat:
+Dataset yang digunakan dalam penelitian ini diperoleh dari Kaggle, Dataset yang digunakan dalam penelitian ini diperoleh dari Kaggle. Data ini mencakup berbagai fitur yang berkaitan dengan kondisi cuaca, seperti Temperature, Humidity, Wind Speed, Precipitation (%), Cloud Cover, Atmospheric Pressure, UV Index, Season, Visibility, Location, dan Weather Type.
+
+Target klasifikasi pada dataset ini adalah Weather Type, yang mengelompokkan kondisi cuaca ke dalam empat kategori, yaitu Rainy, Sunny, Cloudy, dan Snowy. Dengan karakteristik tersebut, dataset ini sangat sesuai untuk praktik penerapan algoritma klasifikasi, analisis eksploratif data (EDA), serta evaluasi performa model machine learning.
+
+- Data Preprocessing
+https://github.com/Danyou7/Eksperimen_Danu-Tirta
